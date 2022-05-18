@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_sicily.jpeg" >
+  <img src="banner_sicily.jpg" >
 </p>
 
 # Airbnb-data-analysis-sicilia
