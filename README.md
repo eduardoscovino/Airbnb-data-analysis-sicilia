@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner_sicily.jpeg" >
+</p>
+
 # Airbnb-data-analysis-sicilia
 
 Olá, pessoal!
